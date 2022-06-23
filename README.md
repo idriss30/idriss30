@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Idriss
 - 👀 I’m interested in Web development and cloud computing.
-- 🌱 I’m currently learning unit testing.
+- 🌱 I’m currently playing around with testing
 - 💞️ I’m looking to collaborate on javascript projects.
 - 📫 Feel free to follow me.
 
