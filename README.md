@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Idriss
-- 👀 I’m interested in Web development and cloud computing.
-- 🌱 I’m currently playing around with testing
+- 👀 I’m interested in Web development and cybersecurity.
+- 🌱 I’m currently learning CI/CD
 - 💞️ I’m looking to collaborate on javascript projects.
 - 📫 Feel free to follow me.
 
