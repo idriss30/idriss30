@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Idriss
-- 👀 I’m interested in Web development and cybersecurity.
-- 🌱 I’m currently learning CI/CD
+- 👀 a full stack javascript developer.
+- 🌱 I’m currently playing around with automated tests.
 - 💞️ I’m looking to collaborate on javascript projects.
 - 📫 Feel free to follow me.
 
