@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Idriss
+- 👋 Hi, I’m Idris
 - 👀 a software developer with hands on experience building full stack javascript applications
 - 💞️ I’m looking forward to collaborate on coding projects.
 
