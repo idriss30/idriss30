@@ -3,7 +3,6 @@
 💞️ I’m currently learning to solve problems with Go. </br>
 :full_moon_with_face: looking forward to working with like-minded developers </br>
 
-### Toolkit
 #### Front-end development
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
