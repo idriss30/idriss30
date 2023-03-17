@@ -1,5 +1,5 @@
- 👋 Hi, I’m Idris </br>
-   a software developer with hands on experience building full stack javascript applications </br>
+ Hi, I’m Idris 👋 </br>
+ a software developer with hands on experience building full stack javascript applications </br>
  I’m currently learning to solve problems with Go. </br>
  looking forward to working with like-minded developers </br>
 
