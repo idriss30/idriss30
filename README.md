@@ -127,7 +127,7 @@
   
   
   Below, I have pinned the projects I have worked on that include a descriptive readme and most of the technologies I have listed.</br>
-  You can also find my portfolio link on the left, underneath the picture.
+  You can also find my portfolio link on the left.
 
 
 <!---
