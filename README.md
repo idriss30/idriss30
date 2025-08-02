@@ -1,6 +1,6 @@
  Hi, I’m Idriss 👋 </br>
  a software developer with hands on experience building full stack javascript applications. </br>
- I’m currently doing a master in computer science. </br>
+ Recent Computer science graduate. </br>
  looking forward to working with like-minded developers </br>
 
 #### Front-end development
