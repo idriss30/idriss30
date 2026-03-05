@@ -1,7 +1,7 @@
  Hi, I’m Idriss 👋 </br>
- a software developer with hands on experience building full stack javascript applications. </br>
- Recent Computer science graduate. </br>
- looking forward to working with like-minded developers </br>
+ Check out some of the things I do.
+ </br>
+  </br>
 
 #### Front-end development
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -126,8 +126,6 @@
   </a>
   
   
-  Below, I have pinned the projects I have worked on that include a descriptive readme and most of the technologies I have listed.</br>
-  You can also find my portfolio link on the left.
 
 
 <!---
